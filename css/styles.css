@@ -1,0 +1,308 @@
+.sky {
+  width: 52%;
+  height: 180px;
+  position: relative;
+  top: 0;
+  left: 20%;
+}
+
+
+#top {
+  position: absolute;
+  top: 8px;
+  right: -20px;
+  background: red;
+  color: white;
+}
+
+h1 {
+  margin-top: 0;
+  position: fixed;
+  top: 0;
+  left:40px;
+}
+
+.img0 {
+  position: fixed;
+  top: 8%;
+  left: 10%;
+  opacity: 0.2;
+  width: 80%;
+  height: 88%;
+}
+
+.ticket1 {
+  position: fixed;
+  left: 6%;
+  top: 8%;
+  display: flex;
+  flex-direction: column;
+ }
+
+.h21 {
+  color:pink;
+}
+
+.ticket2 {
+  width: 52%;
+  height: 380px;
+  position: relative;
+  top: 20%;
+  left: 22%;
+  border-top: pink solid 2px;
+  padding: 0 10px;
+  z-index: 2;
+ }
+ 
+ .btn1:hover {
+   background: ;
+   opacity: 0.5;
+   cursor: pointer;
+  }
+  
+  
+  .access1 {
+    position: fixed;
+    left: 44%;
+    top: 8%;
+    display: flex;
+    flex-direction: column;
+    z-index: 3;
+  }
+
+  .h22 {
+    color: skyblue;
+    text-decoration: none;
+  }
+
+  .access2 {
+    width: 52%;
+    height: 380px;
+    padding: 0 10px;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-top: skyblue solid 2px;
+    z-index: 2;
+   }
+   
+  .btn2:hover {
+    background: skyblue;
+    opacity: 0.5;
+    cursor: pointer;
+  }
+    
+    
+  .animals1 {
+    position: fixed;
+    left: 82%;
+    top: 8%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .h23 {
+    color: gray;
+  }
+
+  .animals2 {
+    width: 52%;
+    height: 380px;
+    padding: 0 10px;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-top: gray solid 2px;
+    z-index: 2;
+  }
+  
+  .btn3:hover {
+    background: gray;
+    opacity: 0.5;
+    cursor: pointer;
+  }
+    
+  
+  .others1 {
+    position: fixed;
+    left: 82%;
+    top: 44%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .h24 {
+    color: orange;
+  }
+  
+  .others2 {
+    width: 52%;
+    height: 380px;
+    padding: 0 10px;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-top: orange solid 2px;
+    z-index: 2;
+   }
+
+  .btn4:hover {
+    background: orange;
+    opacity: 0.5;
+    cursor: pointer;
+    }
+       
+               
+  .unique1 {
+    position: fixed;
+    left: 82%;
+    top: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .h25 {
+    color: green;
+  }
+  
+  .unique2 {
+    width: 52%;
+    height: 380px;
+    padding: 0 10px;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-top: green solid 2px;
+    z-index: 2;
+  }
+
+  .btn5:hover {
+    background: green;
+    opacity: 0.5;
+    cursor: pointer;
+    }
+         
+         
+  .reviews1 {
+    position: fixed;
+    left: 44%;
+    top: 80%;
+    display: flex;
+    flex-direction: column;
+    z-index: 3;
+  }
+
+  .h26 {
+    color: purple;
+  }
+  
+  .review2 {
+    width: 52%;
+    height: 380px;
+    padding: 0 10px;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-top: purple solid 2px;
+    z-index: 2;
+   }
+  
+  .btn6:hover {
+    background: purple;
+    opacity: 0.5;
+    cursor: pointer;
+    }
+           
+  .business1 {
+    position: fixed;
+    left: 6%;
+    top: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .h27 {
+    color: blue;
+  }
+  
+  .business2 {
+    width: 52%;
+    height: 380px;
+    padding: 0 10px;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-top: blue solid 2px;
+    z-index: 2;
+  }
+  
+  .btn7:hover {
+    background: blue;
+    opacity: 0.5;
+    cursor: pointer;
+  }
+      
+  .my-view1 {
+    position: fixed;
+    left: 6%;
+    top: 42%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .h28 {
+    color: brown;
+  }
+  
+  .my-view2 {
+    width: 52%;
+    height: 380px;
+    padding: 0 10px;
+    top: 20%;
+    left: 22%;
+    position: relative;
+    border-top: brown solid 2px;
+    z-index: 2;
+    }
+  
+  .btn8:hover {
+    background: brown;
+    opacity: 0.5;
+    cursor: pointer;
+  }
+    
+    
+  footer {
+    width: 52%;
+    height: 200px;
+    position: relative;
+    top: 20%;
+    left: 22%;
+    border-top: black solid 2px;
+    display: flex;
+    z-index: 2;
+  }
+  
+  .foot {
+    margin-left: 16%;   
+    width: 52%;
+    height: 30px;
+  }
+
+  .copy {
+    width: 268px;
+    height: 24px;
+    background:blue;
+    color: white;
+  }
+
+  .btn9 {
+    margin-left: 4px;
+   }
+  
+
+
+
+
+
+
