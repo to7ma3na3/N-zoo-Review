@@ -26,7 +26,7 @@ h1 {
   position: fixed;
   top: 8%;
   left: 10%;
-  opacity: 0.2;
+  opacity: 0.3;
   width: 80%;
   height: 88%;
 }
@@ -299,6 +299,14 @@ h1 {
   .btn9 {
     margin-left: 4px;
    }
+
+
+@media (min-width: 800px) {
+  .media {
+    width: 800px;
+    margin: 0 auto;
+  }
+}
   
 
 
