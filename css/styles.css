@@ -34,15 +34,27 @@ h1 {
 
 .location-info {
   padding-top: 100px;
+  width: 52%;
+  height: 100px;
+  /* height: 380px; */
+  position: relative;
+  top: 20%;
+  left: 22%;
+  /* padding-top: 100px;
   display: block;
   width: 50%;
-  margin: 0 auto;
+  margin: 0 auto; */
 }
 
 .location-map {
-  display: block;
+  width: 52%;
+  height: 380px;
+  position: relative;
+  top: 20%;
+  left: 22%;
+  /* display: block;
   width: 50%;
-  margin: 0 auto;
+  margin: 0 auto; */
 }
 
 .ticket1 {
