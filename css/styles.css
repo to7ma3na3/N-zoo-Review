@@ -30,6 +30,7 @@ h1 {
   width: 80%;
   height: 88%;
   object-fit: cover;
+  pointer-events: none;
 }
 
 .location-info {
