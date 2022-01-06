@@ -26,10 +26,23 @@ h1 {
   position: fixed;
   top: 8%;
   left: 10%;
-  opacity: 0.3;
+  opacity: 0.1;
   width: 80%;
   height: 88%;
   object-fit: cover;
+}
+
+.location-info {
+  padding-top: 100px;
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.location-map {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
 }
 
 .ticket1 {
