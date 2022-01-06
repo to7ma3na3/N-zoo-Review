@@ -29,6 +29,7 @@ h1 {
   opacity: 0.3;
   width: 80%;
   height: 88%;
+  object-fit: cover;
 }
 
 .ticket1 {
@@ -37,6 +38,10 @@ h1 {
   top: 8%;
   display: flex;
   flex-direction: column;
+ }
+
+ .pic1 {
+   object-fit: cover;
  }
 
 .h21 {
@@ -55,7 +60,7 @@ h1 {
  }
  
  .btn1:hover {
-   background: ;
+   background: pink;
    opacity: 0.5;
    cursor: pointer;
   }
@@ -68,6 +73,10 @@ h1 {
     display: flex;
     flex-direction: column;
     z-index: 3;
+  }
+
+  .pic2 {
+    object-fit: cover;
   }
 
   .h22 {
@@ -99,6 +108,11 @@ h1 {
     top: 8%;
     display: flex;
     flex-direction: column;
+    object-fit: cover;
+  }
+
+  .pic3 {
+    object-fit: cover;
   }
 
   .h23 {
@@ -114,6 +128,7 @@ h1 {
     left: 22%;
     border-top: gray solid 2px;
     z-index: 2;
+    object-fit: cover;
   }
   
   .btn3:hover {
@@ -122,13 +137,17 @@ h1 {
     cursor: pointer;
   }
     
-  
   .others1 {
     position: fixed;
     left: 82%;
     top: 44%;
     display: flex;
     flex-direction: column;
+    object-fit: cover;
+  }
+
+  .pic4 {
+    object-fit: cover;
   }
   
   .h24 {
@@ -144,6 +163,7 @@ h1 {
     left: 22%;
     border-top: orange solid 2px;
     z-index: 2;
+    object-fit: cover;
    }
 
   .btn4:hover {
@@ -159,7 +179,12 @@ h1 {
     top: 80%;
     display: flex;
     flex-direction: column;
+    object-fit: cover;
   }
+
+  .pic5 {
+    object-fit: cover;
+  } 
 
   .h25 {
     color: green;
@@ -174,6 +199,7 @@ h1 {
     left: 22%;
     border-top: green solid 2px;
     z-index: 2;
+    object-fit: cover;
   }
 
   .btn5:hover {
@@ -190,6 +216,11 @@ h1 {
     display: flex;
     flex-direction: column;
     z-index: 3;
+    object-fit: cover;
+  }
+
+  .pic6 {
+    object-fit: cover;
   }
 
   .h26 {
@@ -205,6 +236,7 @@ h1 {
     left: 22%;
     border-top: purple solid 2px;
     z-index: 2;
+    object-fit: cover;
    }
   
   .btn6:hover {
@@ -219,6 +251,11 @@ h1 {
     top: 80%;
     display: flex;
     flex-direction: column;
+    object-fit: cover;
+  }
+
+  .pic7 {
+    object-fit: cover;
   }
 
   .h27 {
@@ -234,6 +271,7 @@ h1 {
     left: 22%;
     border-top: blue solid 2px;
     z-index: 2;
+    object-fit: cover;
   }
   
   .btn7:hover {
@@ -248,6 +286,11 @@ h1 {
     top: 42%;
     display: flex;
     flex-direction: column;
+    object-fit: cover;
+  }
+
+  .pic8 {
+    object-fit: cover;
   }
 
   .h28 {
